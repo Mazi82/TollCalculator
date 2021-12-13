@@ -6,3 +6,4 @@ public class MotorBike implements Vehicle {
         return 8;
     }
 }
+// Kawasaki z1000
