@@ -10,7 +10,7 @@ import java.time.LocalDateTime;
 
 public class TollCalculatorTest {
     @Test
-    public void test(){
+    public void test() {
 
         TollCalculator tollCalculator = new TollCalculator();
         Car car = new Car();
